@@ -40,7 +40,7 @@ CREATE TABLE `sdata` (
 
 LOCK TABLES `sdata` WRITE;
 /*!40000 ALTER TABLE `sdata` DISABLE KEYS */;
-INSERT INTO `sdata` VALUES ('001','Sankar','Nagarapu','EEE','9398068299','7.0','2002-06-24'),('002','Dharani','Nagarapu','CSE','9133501412','8.0','2004-06-05'),('003','Sindhu','Makarapu','CSE','9133505025','10.0','2004-06-25'),('004','Sneha','kurma','CSE','9548625756','10.0','2004-06-27'),('005','meghana','null','CSE','9548651652','10.0','2004-05-22');
+INSERT INTO `sdata` VALUES ('001','Harshal','Mali','CSE','8767338212','7.7','2004-03-04'),('002','Pushpaj','Patil','MEC','9133501412','8.0','2004-06-05'),('003','Pranav','Kasar','CSE','9133505025','7.0','2004-06-25'),('004','Sneha','kurma','CSE','9548625756','10.0','2004-06-27'),('005','gajendra','salunke','MEC','9548651652','10.0','2004-05-22');
 /*!40000 ALTER TABLE `sdata` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
